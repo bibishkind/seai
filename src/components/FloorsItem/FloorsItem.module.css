@@ -1,0 +1,11 @@
+.floorsItem {
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    transition: color 250ms linear;
+}
+
+.floorsItem:hover {
+    color: blue;
+}

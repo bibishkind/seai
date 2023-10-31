@@ -1,0 +1,38 @@
+.app {
+    display: flex;
+}
+
+.leftContainer {
+    width: 10%;
+}
+
+.middleContainer {
+    width: 80%;
+}
+
+.rightContainer {
+    width: 10%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+@media screen and (max-width: 900px) {
+    .leftContainer {
+        display: none;
+    }
+
+    .middleContainer {
+        width: 100%;
+        padding: 0 10%;
+        box-sizing: border-box;
+    }
+
+    .rightContainer {
+        display: none;
+    }
+}

@@ -1,0 +1,13 @@
+.boldHeader {
+    font-size: 4rem;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 900px) {
+    .boldHeader {
+        font-size: 2.5rem;
+        line-height: 3.5rem;
+    }
+}

@@ -1,0 +1,14 @@
+.blueHeader {
+    font-size: 3rem;
+    color: white;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    background-color: blue;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 255, .5);
+}
+
+@media screen and (max-width: 900px) {
+    .blueHeader {
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,13 @@
+.italicHeader {
+    font-size: 4rem;
+    font-style: italic;
+    color: white;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 900px) {
+    .italicHeader {
+        font-size: 2.5rem;
+        line-height: 3.5rem;
+    }
+}

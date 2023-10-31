@@ -1,0 +1,14 @@
+.button {
+    font-size: 1rem;
+    color: white;
+    text-transform: uppercase;
+    padding: 1rem 3rem;
+    background: none;
+    border: 0.1rem solid white;
+    transition: color 500ms linear, background-color 500ms linear;
+}
+
+.button:hover {
+    color: black;
+    background-color: white;
+}
