@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc0567bd.css",
-    "main.js": "/static/js/main.7c71b877.js",
-    "static/media/penelopa-cruz.png": "/static/media/penelopa-cruz.dd4975a297a728dacfc1.png",
-    "static/media/sphere.mp4": "/static/media/sphere.f60763816ad655b440fd.mp4",
-    "static/media/maria.png": "/static/media/maria.8d631034920a43918001.png",
-    "static/media/evgeniy.png": "/static/media/evgeniy.13ed8548de67d0199dc6.png",
-    "static/media/denis.png": "/static/media/denis.c3da53de1af2b089f84f.png",
-    "static/media/hse-logo.svg": "/static/media/hse-logo.a1c14195ec332f594127285dc3b96f47.svg",
-    "index.html": "/index.html",
-    "static/media/dash-circle.svg": "/static/media/dash-circle.cd4d5e714014ff88a9e39b2dfc0b95a3.svg",
-    "main.fc0567bd.css.map": "/static/css/main.fc0567bd.css.map",
-    "main.7c71b877.js.map": "/static/js/main.7c71b877.js.map"
+    "main.css": "/seai/static/css/main.fc0567bd.css",
+    "main.js": "/seai/static/js/main.0f8c3827.js",
+    "static/media/penelopa-cruz.png": "/seai/static/media/penelopa-cruz.dd4975a297a728dacfc1.png",
+    "static/media/sphere.mp4": "/seai/static/media/sphere.f60763816ad655b440fd.mp4",
+    "static/media/maria.png": "/seai/static/media/maria.8d631034920a43918001.png",
+    "static/media/evgeniy.png": "/seai/static/media/evgeniy.13ed8548de67d0199dc6.png",
+    "static/media/denis.png": "/seai/static/media/denis.c3da53de1af2b089f84f.png",
+    "static/media/hse-logo.svg": "/seai/static/media/hse-logo.a1c14195ec332f594127285dc3b96f47.svg",
+    "index.html": "/seai/index.html",
+    "static/media/dash-circle.svg": "/seai/static/media/dash-circle.cd4d5e714014ff88a9e39b2dfc0b95a3.svg",
+    "main.fc0567bd.css.map": "/seai/static/css/main.fc0567bd.css.map",
+    "main.0f8c3827.js.map": "/seai/static/js/main.0f8c3827.js.map"
   },
   "entrypoints": [
     "static/css/main.fc0567bd.css",
-    "static/js/main.7c71b877.js"
+    "static/js/main.0f8c3827.js"
   ]
 }
